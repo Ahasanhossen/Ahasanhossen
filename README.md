@@ -3,7 +3,6 @@
 ![Last_Update](https://img.shields.io/github/last-commit/Ahasanhossen/Ahasanhossen?logo=github&style=for-the-badge&label=last%20update)<br>
 
 <h1 align="center">Hi , I'm Md Ahasan Hossen<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Another programmer who codes for a better world 👨🏼‍💻</h3>
 <p align="center">
 <!--   <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=Ahasanhossen&style=for-the-badge" alt="github" title='Profile Views'></a> -->
   <a href='https://linktr.ee/Ahasanhossen' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
@@ -13,7 +12,23 @@
 <!--
 **Ahasanhossen/Ahasanhossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#felw,
+-->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+  
+- 🔭 I’m currently working on my personal practise projects
+- 👯 I’m looking to collaborate on any volunteering project 
+- 🤔 I’m looking for help with JS 
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`.
+
+<br>
+
 # Programming Languages
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)]()
@@ -85,12 +100,6 @@
 <!-- [![Name]()]() -->
 <br>
 
-<p align="center">
-  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=Ahasanhossen&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a>
-</p>
-<p align="center">
-  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ahasanhossen&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
-</p>
 <p align="center">
   <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=Ahasanhossen&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
 </p>
